@@ -11,14 +11,14 @@ menu:
 # site title 
 # 网站的标题
 # title为空时 Hexo/_config.yml 配置有效
-title: HEXO-THEME-NAYO
+title:
 
 # author profile
 # 图片放置于主题目录下: source/imgaes/
 # 作者信息
 # author为空时 Hexo/_config.yml 配置有效
 profile: 
-  author: Lemon
+  author:
   logo: /images/logo.png
   avatar: /images/header.jpg  
 
@@ -30,14 +30,14 @@ favicon: /images/favicon.png
 # social link
 # 更多链接
 social:  
-  Github: https://github.com/Lemonreds/hexo-theme-nayo 
-  Weibo: https://weibo.com/liminghong2
+  Github: https://github.com/junleqian
+#  Weibo: https://weibo.com/liminghong2
 #  Zhihu:
-  Facebook:
+#  Facebook:
 #  Twitter:
-  Instagram:
+  Instagram: https://www.instagram.com/le.nostalgia/
 #  LinkedIn:
-  Neteasemusic:
+#  Neteasemusic:
 #  Csdn: 
 
 
@@ -129,7 +129,7 @@ mathjax:
 # footer
 # 网站底部信息
 footer:
-  author: Lemon
+  author:
   since: 2018
 
 
